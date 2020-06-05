@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t1", "l2t1\l2t1.pyproj", "{203D51D5-5E05-48E0-9FF0-2020A905BCC1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t2", "l2t2\l2t2.pyproj", "{50C75684-E5BB-46EF-A086-E3D5A4EA1800}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t3", "l2t3\l2t3.pyproj", "{6C824021-F23A-4802-9F0A-2510F5F33AA4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t4", "l2t4\l2t4.pyproj", "{B66B3A4A-FB12-4264-B415-87D9DE47028B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t5", "l2t5\l2t5.pyproj", "{6A8C48F2-EAB7-4D61-A124-C1438B4569E5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "l2t6", "l2t6\l2t6.pyproj", "{F5D126BE-00FA-4A88-BA6E-2195452A2D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203D51D5-5E05-48E0-9FF0-2020A905BCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203D51D5-5E05-48E0-9FF0-2020A905BCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C75684-E5BB-46EF-A086-E3D5A4EA1800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C75684-E5BB-46EF-A086-E3D5A4EA1800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C824021-F23A-4802-9F0A-2510F5F33AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C824021-F23A-4802-9F0A-2510F5F33AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66B3A4A-FB12-4264-B415-87D9DE47028B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66B3A4A-FB12-4264-B415-87D9DE47028B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8C48F2-EAB7-4D61-A124-C1438B4569E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8C48F2-EAB7-4D61-A124-C1438B4569E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D126BE-00FA-4A88-BA6E-2195452A2D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D126BE-00FA-4A88-BA6E-2195452A2D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DF11A7-535E-45FA-861F-477AB151220A}
+	EndGlobalSection
+EndGlobal
